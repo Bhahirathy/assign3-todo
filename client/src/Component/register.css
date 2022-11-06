@@ -1,0 +1,49 @@
+.container {
+    top: 200px;
+    left: 650px;
+    position: absolute;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(74, 74, 197);
+    width: 350px;
+    height: 400px;
+}
+.register{
+    position: relative;
+    top: 40px;
+    width: 250px;
+    height: 270px;
+    background-color: white;
+    text-align: center;
+}
+.username{
+    position: relative;
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    margin: 10px;
+    background-color: rgb(238, 222, 222);
+}
+.pass{
+    position: relative;
+    text-align: center;
+    width: 200px;
+    height: 40px; 
+    margin: 10px;
+    background-color: rgb(238, 222, 222);
+}
+.confirm{
+    position: relative;
+    text-align: center;
+    margin: 10px;
+    width: 200px;
+    height: 40px; 
+    background-color: rgb(238, 222, 222);
+}
+.btn{
+    position: relative;
+    height: 30px;
+    margin: 10px;
+    background-color: aqua;
+    border: none;
+}
